@@ -1,7 +1,7 @@
 import requests
 
 # Define your API key and endpoint URL
-OLLAMA_API_KEY = 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFu66/lnUQY6fZmIRiyvY5AzXV1MUpgbN45/4sCSp7Ke anas@DESKTOP-LSN9GAS'
+OLLAMA_API_KEY = 'generate your own pulic ollama key and add that key to your ollama keys for the end point'
 OLLAMA_API_URL = 'https://api.ollama.com/v1/qwen2/summarize'
 
 def get_summary(text):
